@@ -1,13 +1,13 @@
 ![logo](https://github.com/samsorrahman/samsorrahman/blob/main/Banner.png)
 <body>
   <div align="center">
-    <h1> Hi there, I'm Samsor Rahman👋<a href="#"></h1>
+    <h1> Hi there, I'm Ahmad Shoaib Muslim👋<a href="#"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;HTML+CSS+Developer;Front+End+Web+Developer;Graphic+Designer&center=true&width=500&height=50"></a>
 	
  ## Let's Grow Together
-- [Frontend Web Developement Job Hunting Bootcamp](https://github.com/samsorrahman/samsorrahman1) will started soon.
+- [Frontend Web Developement Job Hunting Bootcamp](https://github.com/ahmadshoaibmuslim/ahmadshoaibmuslim) will started soon.
 
 
 
@@ -183,7 +183,7 @@
 
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/samsorrahman/samsorrahman/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ahmadshoaibmuslim/ahmadshoaibmuslim/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
